@@ -1,1 +1,1 @@
-# GCD-calculator
+# GCD/LCD-calculator
